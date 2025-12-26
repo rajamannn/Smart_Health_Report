@@ -1,4 +1,4 @@
-# 🩺 Smart Health & Diet Analyzer (Python)
+# 🩺 Smart Health & Diet Analyzer
 
 A **menu-driven Python application** that analyzes a user's **health, lifestyle, and diet needs** based on personal inputs such as BMI, sleep, activity level, and dietary preference (Veg / Non-Veg).
 
