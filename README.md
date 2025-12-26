@@ -44,7 +44,7 @@ Food suggestions are dynamically selected based on:
 - BMI category
 - Weight gain level (if underweight)
 
-For normal BMI users, **maintenance diet plans** are provided.
+For users with **normal BMI**, maintenance diet plans are provided.
 
 ---
 
@@ -60,6 +60,18 @@ This gives a **quick visual overview of overall health**.
 
 ---
 
+## 🖼️ Screenshots & Output Preview
+
+The following screenshots are attached in this repository for reference:
+
+- **figure_1.png** → Overall Health Balance **Pie Chart**
+- **output_1.png** → Sample **Console Output (User Input & Health Report)**
+- **output_2.png** → Sample **Food Recommendation Output**
+
+> 📌 *These screenshots help in understanding the program output and visualization without running the code.*
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Python 3**
@@ -68,8 +80,8 @@ This gives a **quick visual overview of overall health**.
 
 ---
 
-## ▶ How to Run the Project
+## ⚙️ Installation & Setup
 
-### Clone the Repository
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/smart-health-diet-analyzer.git
